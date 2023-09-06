@@ -35,4 +35,8 @@ public class Solution1 {
         arr1[i] = arr2[j];
         arr2[j] = temp;
     }
+
+    public static void main(String[] args) {
+        System.out.println("多吃蔬菜VS额地方v从三大包");
+    }
 }
